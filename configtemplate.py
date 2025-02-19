@@ -1,0 +1,2 @@
+RUTADB =
+SECRET_KEY =
